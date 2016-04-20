@@ -1,9 +1,9 @@
 {
-    name: "iconicwp/post-types",
-    authors: [
+    "name": "iconicwp/post-types",
+    "authors": [
         {
-            name: "James Kemp",
-            email: "support@iconicwp.com"
+            "name": "James Kemp",
+            "email": "support@iconicwp.com"
         }
     ]
 }
